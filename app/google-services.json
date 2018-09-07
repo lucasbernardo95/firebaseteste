@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "90528333955",
+    "firebase_url": "https://teste-7a355.firebaseio.com",
+    "project_id": "teste-7a355",
+    "storage_bucket": "teste-7a355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90528333955:android:b26e5533fc6ff6cf",
+        "android_client_info": {
+          "package_name": "com.example.lber.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90528333955-b4c420ej6rb93lmpbhjrf9a0s7fiuiaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeigSzIHinDQToHAyFb7t7etG6KjGmh7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

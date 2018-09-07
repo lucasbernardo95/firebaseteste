@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="labelNome">Nome</string>
+    <string name="campoNome"></string>
+    <string name="labelcpf">CPF/CNPJ</string>
+    <string name="labelcontato">Contato</string>
+    <string name="labelemail">E-mail</string>
+    <string name="btadastrar">Cadastrar</string>
+</resources>
